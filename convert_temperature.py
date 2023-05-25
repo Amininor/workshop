@@ -6,6 +6,8 @@ def fah_to_cel(temp_fahrenheit):
 
 	Returns:
 	temp_celsius
+
+	Accepts ints
 	"""
 	temp_celsius = (temp_fahrenheit -32) * 5/9
 	return temp_celsius
